@@ -1,6 +1,6 @@
-use proconio::{fastout, input};
+use proconio::input;
 
-#[fastout]
 fn main() {
     input! {}
 }
+
